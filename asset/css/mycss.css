@@ -1,0 +1,18 @@
+body{
+  margin: 0px;
+}
+#kasirheader{
+  text-align: center;
+}
+.logo h1{
+  text-align: center;
+}
+#printbody{
+  width: 500px;
+  background-color: #158CBA;
+}
+
+#printbody p{
+  text-align: center;
+  color: white;
+}
