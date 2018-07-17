@@ -1,6 +1,6 @@
 <?php
 /**
- * CodeIgniter faiz zainol
+ * CodeIgniter faiz zainol lutji afandi
  *
  * An open source application development framework for PHP
  *
